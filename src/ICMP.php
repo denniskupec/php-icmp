@@ -1,5 +1,7 @@
 <?php
 
+namespace denniskupec;
+
 class ICMP
 {
 
